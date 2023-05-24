@@ -1,0 +1,1 @@
+Try not to create a empty file with echo.
